@@ -1,0 +1,18 @@
+.DS_Store
+*.swp
+*~.nib
+
+build/
+
+*.pbxuser
+*.perspective
+*.perspectivev3
+
+*.mode1v3
+*.mode2v3
+
+xcuserdata
+*.xcuserdatad
+Ones to Watch.xcodeproj/project.xcworkspace/xcuserdata/mike.xcuserdatad/UserInterfaceState.xcuserstate
+Ones to Watch.xcodeproj/xcuserdata/mike.xcuserdatad/xcdebugger/Breakpoints.xcbkptlist
+Pods
